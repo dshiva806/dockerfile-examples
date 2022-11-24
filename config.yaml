@@ -97,6 +97,7 @@ hipache:
 abh-jmeter:
     images:
         - ubuntu
+        - mariadb
         - jdk-oracle
         - maven
         - jmeter-abh
